@@ -47,8 +47,8 @@ p.name {
 body {
   font-family: Georgia;
   font-size: 16px;
-  margin-left: 250px;   /* center content */
-  max-width: 1000px; /* limit width */
+  margin-left: 180px;   /* center content */
+  max-width: 900px; /* limit width */
   line-height: 1.5;
   padding-bottom: 32px;
 }
