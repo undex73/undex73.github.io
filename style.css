@@ -6,7 +6,7 @@
 }
 #main {
   text-align: left;
-  width: 950px;
+  width: 1300px;
   margin-top: 10px;
 }
 #footer {
@@ -37,8 +37,11 @@ h5 {
     margin-bottom: 0;
     font-weight: 100;
 }
-p.discription {
+p.description {
     margin: 0px;
+}
+p.header {
+    margin-top: 20px;
 }
 p.name {
     margin-bottom: 1px;
@@ -47,8 +50,8 @@ p.name {
 body {
   font-family: Georgia;
   font-size: 16px;
-  margin-left: 180px;   /* center content */
-  max-width: 900px; /* limit width */
+  margin-left: 50px;
+  max-width: 1400px;
   line-height: 1.5;
   padding-bottom: 32px;
 }
