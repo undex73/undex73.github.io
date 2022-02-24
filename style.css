@@ -63,6 +63,11 @@ body {
   margin-left: 150px;
   margin-top: 10px;
 }
+a.button {
+  text-decoration: none;
+  color: initial;
+  text-align: center;
+}
 * {
   margin-top: 0px;
   margin-bottom: 0px;
