@@ -37,6 +37,10 @@ h5 {
 p.description {
     margin: 0px;
 }
+p.skills {
+    font-style: oblique;
+    font-size: 12px;
+}
 p.header {
     margin-top: 20px;
 }
