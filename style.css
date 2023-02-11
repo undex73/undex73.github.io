@@ -1,35 +1,31 @@
 #header {
   text-align: center;
-  margin: 20px 0;
+  margin: 10px 0;
 }
 #main {
   text-align: left;
   margin-top: 10px;
 }
-#footer {
-  text-align: center;
-  margin-top: 64px;
-}
 h1 {
-    font-size: 34px;
+    font-size: 26px;
     margin-bottom: 0px;
     font-weight: 400;
 }
 h2 {
-    font-size: 26px;
+    font-size: 22px;
     margin-bottom: 8px;
     border-bottom: 1px solid grey;
     font-weight: 400;
     text-align: left;
 }
 h3 {
-    font-size: 20px;
+    font-size: 18px;
     margin-bottom: 0px;
     margin-top: 5px;
     font-weight: 400;
 }
 h5 {
-    font-size: 16px;
+    font-size: 14px;
     margin-top: 5px;
     margin-bottom: 0;
     font-weight: 100;
@@ -42,18 +38,14 @@ p.skills {
     font-size: 12px;
 }
 p.header {
-    margin-top: 20px;
-}
-p.name {
-    margin-bottom: 1px;
-    font-weight: 800;
+    margin-top: 5px;
 }
 body {
   font-family: Georgia;
-  font-size: 16px;
+  font-size: 14px;
   margin: 0 50px;
-  line-height: 1.5;
-  padding-bottom: 32px;
+  line-height: 1.25;
+  padding-bottom: 5px;
 }
 .lineText {
   display: inline;
@@ -65,7 +57,7 @@ body {
   margin-top: 10px;
 }
 a.header {
-  margin-top: 20px;
+  margin-top: 10px;
   text-align: center;
 }
 * {
