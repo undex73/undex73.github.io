@@ -1,6 +1,5 @@
 #header {
   text-align: center;
-  margin: 10px 0;
 }
 #main {
   text-align: left;
@@ -43,7 +42,7 @@ p.header {
 body {
   font-family: Georgia;
   font-size: 14px;
-  margin: 0 50px;
+  margin: 0 20px;
   line-height: 1.25;
   padding-bottom: 5px;
 }
