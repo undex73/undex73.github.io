@@ -8,11 +8,11 @@
 h1 {
     font-size: 26px;
     margin-bottom: 0px;
-    font-weight: 400;
+    font-weight: 300;
 }
 h2 {
     font-size: 22px;
-    margin-bottom: 8px;
+    margin-bottom: 4px;
     border-bottom: 1px solid grey;
     font-weight: 400;
     text-align: left;
@@ -63,4 +63,7 @@ a.header {
   margin-top: 0px;
   margin-bottom: 0px;
   font-weight: 100;
+}
+.link{
+  text-decoration: none;
 }
